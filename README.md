@@ -1,1 +1,3 @@
-# Kt_3_Tests
+Запуск
+npm install
+node test.js
